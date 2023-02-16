@@ -1,0 +1,12 @@
+node_modules
+test-report
+.tmp
+package-lock.json
+.idea
+reports
+apps
+allure-report
+allure-results
+browserstack.err
+local.log
+convert.js
